@@ -11,4 +11,6 @@ header:
 main:  
 	section para bateria  
 	section para errores  
-	
+	section para estado
+footer:
+	parrafo con año presente, datos de la actividad, nombre del Campus, nombre de la autora (información general).
