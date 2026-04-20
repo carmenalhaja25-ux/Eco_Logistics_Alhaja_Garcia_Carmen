@@ -15,5 +15,5 @@ main:
 	section para errores  
 	section para estado
 	
-footer:
+footer:	 
 	parrafo con año presente, datos de la actividad, nombre del Campus, nombre de la autora (información general).
