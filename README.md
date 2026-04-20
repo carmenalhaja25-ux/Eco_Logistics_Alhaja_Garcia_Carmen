@@ -11,7 +11,7 @@ header:
 	párrafo: Sistema de Gestión de Flotas Dinámico
 	
 main:  
-	section para bateria  
+	section para bateria crítica
 	section para errores  
 	section para estado
 	
